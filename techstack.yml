@@ -1,0 +1,1146 @@
+repo_name: LokeshJonnakuti/penpot
+report_id: 484d07458ab5411316aa200f8166a1a0
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-14T10:52:59+00:00'
+requested_by: superalex
+provider: github
+branch: develop
+detected_tools_count: 86
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot
+  detection_source: Repo Metadata
+- name: Clojure
+  description: A dynamic programming language that targets the Java Virtual Machine
+  website_url: http://clojure.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1003/Clojure_300x300.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/images/docker-compose.yaml
+  detection_source: docker/images/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2020-12-02 08:39:39.000000000 Z
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot
+  detection_source: Repo Metadata
+- name: Lua
+  description: Powerful, fast, lightweight, embeddable scripting language
+  website_url: http://www.lua.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot
+  detection_source: Repo Metadata
+- name: Mustache
+  description: Logic-less templates
+  website_url: http://mustache.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/backend/src/app/migrations/sql/0001-add-extensions.sql
+  detection_source: backend/src/app/migrations/sql/0001-add-extensions.sql
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2019-11-18 10:52:57.000000000 Z
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/devenv/docker-compose.yaml
+  detection_source: docker/devenv/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2019-09-20 15:31:03.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/devenv/docker-compose.yaml
+  detection_source: docker/devenv/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2019-09-20 15:31:03.000000000 Z
+- name: 'Animate.css '
+  description: A library of CSS animations
+  website_url: https://animate.style/
+  version: 4.1.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/9195/default_5aa00f79c6648507ba5f6c66c130a832332e5adc.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: alonso.torres
+  last_updated_on: 2023-11-27 16:41:25.000000000 Z
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-08-31 07:20:22.000000000 Z
+- name: DraftJS
+  description: A framework for building rich text editors
+  website_url: https://draftjs.org
+  version: 0.11.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5388/9xvwNLlR_400x400.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2021-03-15 07:43:23.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2015-06-18 17:35:50.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-29 10:24:53.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 7.8.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2015-06-18 17:35:50.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2015-06-18 17:35:50.000000000 Z
+- name: Storybook
+  description: Build bulletproof UI components faster
+  website_url: https://storybook.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-27 11:28:28.000000000 Z
+- name: DB
+  description: 'Version control for databases: save, restore, and archive snapshots
+    of your database from the command line'
+  website_url: https://github.com/infostreams/db
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/devenv/docker-compose.yaml
+  detection_source: docker/devenv/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2019-09-20 15:31:03.000000000 Z
+- name: Minio
+  description: AWS S3 open source alternative written in Go
+  website_url: https://minio.io/
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/4485/gTawkyAA.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/devenv/docker-compose.yaml
+  detection_source: docker/devenv/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-15 12:25:09.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/devenv/docker-compose.yaml
+  detection_source: docker/devenv/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2022-11-24 11:21:58.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/devenv/docker-compose.yaml
+  detection_source: docker/devenv/docker-compose.yaml
+  last_updated_by: alonso.torres
+  last_updated_on: 2023-02-06 16:00:42.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Andrés Moya
+  last_updated_on: 2020-06-15 14:08:30.000000000 Z
+- name: CircleCI
+  description: Automate your development process quickly, safely, and at scale
+  website_url: https://circleci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/.circleci/config.yml
+  detection_source: ".circleci/config.yml"
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2021-02-01 13:06:06.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot
+  detection_source: Repo Metadata
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2019-09-20 15:31:03.000000000 Z
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/devenv/files/nginx.conf
+  detection_source: docker/devenv/files/nginx.conf
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2020-06-02 14:14:23.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/devenv/docker-compose.yaml
+  detection_source: docker/devenv/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2019-09-20 15:31:03.000000000 Z
+- name: Playwright
+  description: Node library to automate Chromium, Firefox and WebKit with a single
+    API (By Microsoft)
+  website_url: https://github.com/microsoft/playwright
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/exporter/package.json
+  detection_source: exporter/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-08-31 07:20:22.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.8.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: alonso.torres
+  last_updated_on: 2023-11-27 16:41:25.000000000 Z
+- name: Traefik
+  description: The Cloud Native Edge Router
+  website_url: https://traefik.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Load Balancer / Reverse Proxy
+  image_url: https://img.stackshare.io/service/5126/default_0a34be001ec8247c641508aa468564fb386bc50c.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/images/docker-compose.yaml
+  detection_source: docker/images/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-01-19 22:16:46.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Mathieu Brunot
+  last_updated_on: 2018-10-23 21:31:03.000000000 Z
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2015-06-18 17:35:50.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/backend/yarn.lock
+  detection_source: backend/yarn.lock
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-27 11:28:28.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: alonso.torres
+  last_updated_on: 2023-11-27 11:27:01.000000000 Z
+- name: highlight.js
+  description: Syntax highlighter in JavaScript
+  website_url: https://highlightjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-05-09 12:00:23.000000000 Z
+- name: hub
+  description: Wraps Git with extra features that make working with GitHub easier
+    (by GitHub)
+  website_url: http://hub.github.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/devenv/docker-compose.yaml
+  detection_source: docker/devenv/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2019-09-20 15:31:03.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/backend/yarn.lock
+  detection_source: backend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-09 17:32:37.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2015-06-18 17:35:50.000000000 Z
+- name: Base
+  description: All-in-one sales and customer management platform
+  website_url: https://getbase.com/
+  version: 0.11.2
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: CRM
+  image_url: https://img.stackshare.io/service/3633/ZBMmmvP1_400x400.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: docker/images/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2020-12-02 08:39:39.000000000 Z
+- name: Cm_Cache_Backend_File
+  website_url: https://github.com/colinmollenhour/Cm_Cache_Backend_File
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/1866/38738.jpeg
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/images/docker-compose.yaml
+  detection_source: docker/images/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-01-19 22:16:46.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/devenv/docker-compose.yaml
+  detection_source: docker/devenv/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2019-09-20 15:31:03.000000000 Z
+- name: Keycloak
+  description: An open source identity and access management solution
+  website_url: https://www.keycloak.org/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://img.stackshare.io/service/5439/oAC05cEB_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/devenv/docker-compose.yaml
+  detection_source: docker/devenv/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2021-11-22 07:57:20.000000000 Z
+- name: Luxon
+  description: Library for working with dates and times in Javascript
+  website_url: https://moment.github.io/luxon/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10330/no-img-open-source.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-09 17:32:37.000000000 Z
+- name: Micro Frontends
+  website_url: https://micro-frontends.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/25332/default_c2f0a1325da94515ac2b99d73bcabb8049c05b2a.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/images/docker-compose.yaml
+  detection_source: docker/images/docker-compose.yaml
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-01-19 22:16:46.000000000 Z
+- name: OpenLDAP
+  description: An open source implementation of the Lightweight Directory Access Protocol
+  website_url: http://www.openldap.org/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://img.stackshare.io/service/5225/zPH8xLZQ_400x400.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/devenv/docker-compose.yaml
+  detection_source: docker/devenv/docker-compose.yaml
+  last_updated_by: alonso.torres
+  last_updated_on: 2021-10-20 09:18:28.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot
+  detection_source: Repo Metadata
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/docker/devenv/Dockerfile
+  detection_source: docker/devenv/Dockerfile
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2022-06-27 12:37:49.000000000 Z
+- name: XSLT
+  description: The official Twitter account for the sum of all knowledge, Wikipedia.
+    Overseen by @jeffelder.
+  website_url: https://en.wikipedia.org/wiki/XSLT
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot
+  detection_source: Repo Metadata
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-05-09 12:00:23.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 5.0.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-29 10:24:53.000000000 Z
+  vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 5.0.12
+  - name: Vite's `server.fs.deny` did not deny requests for patterns with directories.
+    cve_id: CVE-2024-31207
+    cve_url: https://github.com/advisories/GHSA-8jhw-289h-jh2g
+    detected_date: Apr 4
+    severity: moderate
+    first_patched: 5.0.13
+  - name: Vite XSS vulnerability in `server.transformIndexHtml` via URL payload
+    cve_id: CVE-2023-49293
+    cve_url: https://github.com/advisories/GHSA-92r3-m2mg-pj97
+    detected_date: Dec 6
+    severity: moderate
+    first_patched: 5.0.5
+- name: "@storybook/addon-links"
+  description: Story Links addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-links
+  version: 7.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16204/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-27 11:28:28.000000000 Z
+- name: "@storybook/react"
+  description: 'Storybook for React: Develop React Component in isolation with Hot
+    Reloading'
+  package_url: https://www.npmjs.com/@storybook/react
+  version: 7.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16042/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-29 10:24:53.000000000 Z
+- name: archiver
+  description: A streaming interface for archive generation
+  package_url: https://www.npmjs.com/archiver
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16407/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/exporter/yarn.lock
+  detection_source: exporter/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-08-31 07:20:22.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 8.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: alonso.torres
+  last_updated_on: 2023-11-27 11:27:01.000000000 Z
+- name: cookies
+  description: Cookies, optionally signed using Keygrip
+  package_url: https://www.npmjs.com/cookies
+  version: 0.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17767/default_a53af9d6b5a4c8c6e8d5f8494d76a8d2efd3e660.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/exporter/yarn.lock
+  detection_source: exporter/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2021-09-21 13:12:46.000000000 Z
+- name: draft-js
+  description: A React framework for building text editors
+  package_url: https://www.npmjs.com/draft-js
+  version: 0.11.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16886/default_39222bc61d2c4e84c2e001fe7b31e7c8bf5f4832.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2021-03-15 07:43:23.000000000 Z
+- name: generic-pool
+  description: Generic resource pooling for Node.JS
+  package_url: https://www.npmjs.com/generic-pool
+  version: 3.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17421/default_68a60246a766655932541acc39422873bd51360a.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/exporter/yarn.lock
+  detection_source: exporter/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2022-10-05 09:39:40.000000000 Z
+- name: gulp-cached
+  description: A simple in-memory file cache for gulp
+  package_url: https://www.npmjs.com/gulp-cached
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17080/default_23002b02644a8cb313a0f53f43df271731022a9e.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: alonso.torres
+  last_updated_on: 2023-11-27 11:27:01.000000000 Z
+- name: gulp-concat
+  description: Concatenates files
+  package_url: https://www.npmjs.com/gulp-concat
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15973/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: alonso.torres
+  last_updated_on: 2023-11-27 11:27:01.000000000 Z
+- name: gulp-gzip
+  description: Gzip plugin for gulp
+  package_url: https://www.npmjs.com/gulp-gzip
+  version: 1.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17577/default_cce6af1cc5c037d170650dfd256f479915d5a8e4.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: alonso.torres
+  last_updated_on: 2023-11-27 11:27:01.000000000 Z
+- name: gulp-postcss
+  description: PostCSS gulp plugin
+  package_url: https://www.npmjs.com/gulp-postcss
+  version: 9.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16282/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: alonso.torres
+  last_updated_on: 2023-11-27 11:27:01.000000000 Z
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-28 14:17:23.000000000 Z
+- name: gulp-sass
+  description: Gulp plugin for sass
+  package_url: https://www.npmjs.com/gulp-sass
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16002/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: alonso.torres
+  last_updated_on: 2023-11-27 11:27:01.000000000 Z
+- name: gulp-sourcemaps
+  description: Source map support for Gulp.js
+  package_url: https://www.npmjs.com/gulp-sourcemaps
+  version: 3.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15958/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: alonso.torres
+  last_updated_on: 2023-11-27 16:41:25.000000000 Z
+- name: ioredis
+  description: A robust
+  package_url: https://www.npmjs.com/ioredis
+  version: 5.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16522/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/exporter/yarn.lock
+  detection_source: exporter/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-08-31 07:20:22.000000000 Z
+- name: js-beautify
+  description: Beautifier.io for node
+  package_url: https://www.npmjs.com/js-beautify
+  version: 1.14.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16340/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-08-31 07:20:22.000000000 Z
+- name: jszip
+  description: Create
+  package_url: https://www.npmjs.com/jszip
+  version: 3.10.1
+  license: MIT,GPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16628/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2022-12-27 13:29:14.000000000 Z
+- name: map-stream
+  description: Construct pipes of streams of events
+  package_url: https://www.npmjs.com/map-stream
+  version: 0.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17036/default_0e6669b56ffe7d68d8118eb8e85d024215fd5906.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2021-11-24 10:30:09.000000000 Z
+- name: marked
+  description: A markdown parser built for speed
+  package_url: https://www.npmjs.com/marked
+  version: 7.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-08-31 07:20:22.000000000 Z
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/backend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-08-31 07:20:22.000000000 Z
+- name: mousetrap
+  description: Simple library for handling keyboard shortcuts
+  package_url: https://www.npmjs.com/mousetrap
+  version: 1.6.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18018/image.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2020-04-02 18:01:49.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: alonso.torres
+  last_updated_on: 2021-10-20 09:08:10.000000000 Z
+- name: postcss-modules
+  description: PostCSS plugin to use CSS Modules everywhere
+  package_url: https://www.npmjs.com/postcss-modules
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17241/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-08-31 07:20:22.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-27 11:28:28.000000000 Z
+- name: randomcolor
+  description: A tiny script for generating attractive random colors
+  package_url: https://www.npmjs.com/randomcolor
+  version: 0.6.2
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18595/default_cdfbfc8ddc0cad865ade3e84444b993ccd8e67de.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2020-08-05 12:40:44.000000000 Z
+- name: raw-body
+  description: Get and validate the raw body of a readable stream
+  package_url: https://www.npmjs.com/raw-body
+  version: 2.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17336/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/exporter/yarn.lock
+  detection_source: exporter/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-08-31 07:20:22.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-29 10:24:53.000000000 Z
+- name: react-virtualized
+  description: React components for efficiently rendering large
+  package_url: https://www.npmjs.com/react-virtualized
+  version: 9.22.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16918/default_c17ccfb3dc0510bb2c684b87ee080a74a9728c34.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-29 10:24:53.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.7.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-08-31 07:20:22.000000000 Z
+- name: sax
+  description: An evented streaming XML parser in JavaScript
+  package_url: https://www.npmjs.com/sax
+  version: 1.3.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17116/default_aae1698f13b22e457dce8faa3612b71379cf7a48.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/backend/yarn.lock
+  detection_source: backend/package.json
+  last_updated_by: Andrés Moya
+  last_updated_on: 2020-06-15 14:08:30.000000000 Z
+- name: source-map-support
+  description: Fixes stack traces for files with source maps
+  package_url: https://www.npmjs.com/source-map-support
+  version: 0.5.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/backend/yarn.lock
+  detection_source: backend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-09 17:32:37.000000000 Z
+- name: ua-parser-js
+  description: Lightweight JavaScript-based user-agent string parser
+  package_url: https://www.npmjs.com/ua-parser-js
+  version: 0.7.37
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17510/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/frontend/yarn.lock
+  detection_source: frontend/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2023-11-27 11:28:28.000000000 Z
+- name: xml-js
+  description: A convertor between XML text and Javascript object / JSON text
+  package_url: https://www.npmjs.com/xml-js
+  version: 1.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18393/default_dc6769b9772560ba4cb2cd0455560c2922e23c92.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/exporter/yarn.lock
+  detection_source: exporter/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2020-07-30 13:23:11.000000000 Z
+- name: xregexp
+  description: Extended regular expressions
+  package_url: https://www.npmjs.com/xregexp
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17673/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
+  detection_source_url: https://github.com/LokeshJonnakuti/penpot/blob/develop/exporter/yarn.lock
+  detection_source: exporter/package.json
+  last_updated_by: Andrey Antukh
+  last_updated_on: 2022-10-05 09:39:40.000000000 Z
